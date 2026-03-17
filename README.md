@@ -12,11 +12,6 @@ Included website sections:
 - `Skill Tree`
 - `More`
 
-
-## Repository Description
-
-`Project Ebonhold skill tree planner with loadout sharing and addon export support.`
-
 ## Ownership and Usage
 
 This project is proprietary.
