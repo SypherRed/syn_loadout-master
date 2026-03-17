@@ -1,5 +1,7 @@
 # Synergy Loadout Master
 
+![Banner](builder-banner.png)
+
 Proprietary Project Ebonhold skill tree planner and loadout sharing website.
 
 ## Overview
