@@ -20,5 +20,5 @@ Use of the published website for its intended purpose is allowed.
 
 The source, assets, layout, and functionality of the project may not be copied, modified, redistributed, republished, or reused without prior written permission.
 
-See [LICENSE]() for details.
+See [LICENSE](https://github.com/SypherRed/syn_loadout-master/blob/main/LICENSE) for details.
 
